@@ -5,7 +5,7 @@ import jsons
 
 
 
-API_TOKEN = '7815930034:AAGsvqyPXfHunPG9AH180cg-YKEUJk9z1ms'
+API_TOKEN = 'YOUR TOKEN'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Словарь для хранения контекста пользователей
